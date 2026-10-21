@@ -1,0 +1,47 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="330" viewBox="0 0 1200 330" role="img" aria-labelledby="title desc">
+  <title id="title">dnzlfx — full-stack developer · local-first AI</title>
+  <desc id="desc">Light terminal-style header for dnzlfx's GitHub profile.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#f6f8fa"/>
+      <stop offset="0.55" stop-color="#ffffff"/>
+      <stop offset="1" stop-color="#f3f0ff"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#1a7f37"/>
+      <stop offset="0.52" stop-color="#0969da"/>
+      <stop offset="1" stop-color="#6f42c1"/>
+    </linearGradient>
+    <pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse">
+      <path d="M32 0H0V32" fill="none" stroke="#57606a" stroke-opacity="0.07"/>
+    </pattern>
+  </defs>
+
+  <rect width="1200" height="330" rx="24" fill="url(#bg)"/>
+  <rect width="1200" height="330" rx="24" fill="url(#grid)"/>
+  <rect x="1" y="1" width="1198" height="328" rx="23" fill="none" stroke="url(#accent)" stroke-opacity="0.55"/>
+
+  <g transform="translate(52 36)">
+    <rect width="1096" height="258" rx="17" fill="#ffffff" fill-opacity="0.84" stroke="#d0d7de"/>
+    <path d="M0 45H1096" stroke="#d0d7de"/>
+    <circle cx="24" cy="22" r="5" fill="#ff5f57"/>
+    <circle cx="43" cy="22" r="5" fill="#febc2e"/>
+    <circle cx="62" cy="22" r="5" fill="#28c840"/>
+    <text x="548" y="27" text-anchor="middle" fill="#6e7781" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="12" letter-spacing="2">DNZLFX@LOCALHOST:~</text>
+
+    <text x="38" y="88" fill="#1a7f37" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="18">$ whoami</text>
+    <text x="38" y="145" fill="#24292f" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="55" font-weight="800" letter-spacing="5">DNZLFX</text>
+    <rect x="39" y="160" width="542" height="4" rx="2" fill="url(#accent)"/>
+    <text x="38" y="201" fill="#3d444d" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="17" letter-spacing="1.5">FULL-STACK DEV  /  AI  /  LINUX  /  WEB</text>
+    <text x="38" y="234" fill="#6e7781" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="13">private tools · useful automation · software you control</text>
+
+    <g transform="translate(752 78)" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace">
+      <text x="0" y="0" fill="#6f42c1" font-size="12" letter-spacing="2">BUILD PROFILE</text>
+      <path d="M0 17H286" stroke="url(#accent)" stroke-opacity="0.65"/>
+      <text x="0" y="50" fill="#57606a" font-size="12">FOCUS</text><text x="286" y="50" text-anchor="end" fill="#0969da" font-size="12">LOCAL AI</text>
+      <text x="0" y="83" fill="#57606a" font-size="12">PLATFORM</text><text x="286" y="83" text-anchor="end" fill="#24292f" font-size="12">LINUX</text>
+      <text x="0" y="116" fill="#57606a" font-size="12">METHOD</text><text x="286" y="116" text-anchor="end" fill="#1a7f37" font-size="12">LOCAL-FIRST</text>
+      <text x="0" y="149" fill="#57606a" font-size="12">CURRENT STATE</text><text x="286" y="149" text-anchor="end" fill="#6f42c1" font-size="12">BUILD AND LEARN</text>
+    </g>
+  </g>
+</svg>
